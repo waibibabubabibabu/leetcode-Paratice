@@ -1,0 +1,15 @@
+E:\学习资料\leecode\编程能力基础\day13\bin\Debug\net6.0\day13.exe
+E:\学习资料\leecode\编程能力基础\day13\bin\Debug\net6.0\day13.deps.json
+E:\学习资料\leecode\编程能力基础\day13\bin\Debug\net6.0\day13.runtimeconfig.json
+E:\学习资料\leecode\编程能力基础\day13\bin\Debug\net6.0\day13.dll
+E:\学习资料\leecode\编程能力基础\day13\bin\Debug\net6.0\day13.pdb
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\day13.csproj.AssemblyReference.cache
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\day13.GeneratedMSBuildEditorConfig.editorconfig
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\day13.AssemblyInfoInputs.cache
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\day13.AssemblyInfo.cs
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\day13.csproj.CoreCompileInputs.cache
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\day13.dll
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\refint\day13.dll
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\day13.pdb
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\day13.genruntimeconfig.cache
+E:\学习资料\leecode\编程能力基础\day13\obj\Debug\net6.0\ref\day13.dll

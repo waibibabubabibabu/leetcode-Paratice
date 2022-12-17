@@ -1,0 +1,15 @@
+E:\学习资料\leetcode\leetcode Level2\day1\bin\Debug\net6.0\day1.exe
+E:\学习资料\leetcode\leetcode Level2\day1\bin\Debug\net6.0\day1.deps.json
+E:\学习资料\leetcode\leetcode Level2\day1\bin\Debug\net6.0\day1.runtimeconfig.json
+E:\学习资料\leetcode\leetcode Level2\day1\bin\Debug\net6.0\day1.dll
+E:\学习资料\leetcode\leetcode Level2\day1\bin\Debug\net6.0\day1.pdb
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\day1.csproj.AssemblyReference.cache
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\day1.GeneratedMSBuildEditorConfig.editorconfig
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\day1.AssemblyInfoInputs.cache
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\day1.AssemblyInfo.cs
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\day1.csproj.CoreCompileInputs.cache
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\day1.dll
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\refint\day1.dll
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\day1.pdb
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\day1.genruntimeconfig.cache
+E:\学习资料\leetcode\leetcode Level2\day1\obj\Debug\net6.0\ref\day1.dll

@@ -1,0 +1,15 @@
+E:\学习资料\leecode\编程能力基础\day1\bin\Debug\net6.0\编程能力基础.exe
+E:\学习资料\leecode\编程能力基础\day1\bin\Debug\net6.0\编程能力基础.deps.json
+E:\学习资料\leecode\编程能力基础\day1\bin\Debug\net6.0\编程能力基础.runtimeconfig.json
+E:\学习资料\leecode\编程能力基础\day1\bin\Debug\net6.0\编程能力基础.dll
+E:\学习资料\leecode\编程能力基础\day1\bin\Debug\net6.0\编程能力基础.pdb
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\编程能力基础.csproj.AssemblyReference.cache
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\编程能力基础.GeneratedMSBuildEditorConfig.editorconfig
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\编程能力基础.AssemblyInfoInputs.cache
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\编程能力基础.AssemblyInfo.cs
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\编程能力基础.csproj.CoreCompileInputs.cache
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\编程能力基础.dll
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\refint\编程能力基础.dll
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\编程能力基础.pdb
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\编程能力基础.genruntimeconfig.cache
+E:\学习资料\leecode\编程能力基础\day1\obj\Debug\net6.0\ref\编程能力基础.dll

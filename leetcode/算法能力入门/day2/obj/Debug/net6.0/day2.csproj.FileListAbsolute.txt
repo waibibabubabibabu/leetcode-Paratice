@@ -1,0 +1,15 @@
+F:\学习资料\leecode\算法能力入门\day2\bin\Debug\net6.0\day2.exe
+F:\学习资料\leecode\算法能力入门\day2\bin\Debug\net6.0\day2.deps.json
+F:\学习资料\leecode\算法能力入门\day2\bin\Debug\net6.0\day2.runtimeconfig.json
+F:\学习资料\leecode\算法能力入门\day2\bin\Debug\net6.0\day2.dll
+F:\学习资料\leecode\算法能力入门\day2\bin\Debug\net6.0\day2.pdb
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\day2.csproj.AssemblyReference.cache
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\day2.AssemblyInfoInputs.cache
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\day2.AssemblyInfo.cs
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\day2.csproj.CoreCompileInputs.cache
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\day2.dll
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\refint\day2.dll
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\day2.pdb
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\day2.genruntimeconfig.cache
+F:\学习资料\leecode\算法能力入门\day2\obj\Debug\net6.0\ref\day2.dll

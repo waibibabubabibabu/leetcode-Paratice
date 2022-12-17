@@ -1,0 +1,6 @@
+{
+    "docify.programmingLanguage": "c_sharp",
+    "docify.style": "JavaDoc",
+    "docify.sidePanelReviewMode": true,
+    "docify.intelligentDetection": true
+}

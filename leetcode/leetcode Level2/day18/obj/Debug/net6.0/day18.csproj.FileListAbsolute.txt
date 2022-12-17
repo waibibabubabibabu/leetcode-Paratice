@@ -1,0 +1,15 @@
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\day18.csproj.AssemblyReference.cache
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\day18.GeneratedMSBuildEditorConfig.editorconfig
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\day18.AssemblyInfoInputs.cache
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\day18.AssemblyInfo.cs
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\day18.csproj.CoreCompileInputs.cache
+E:\学习资料\leetcode\leetcode Level2\day18\bin\Debug\net6.0\day18.exe
+E:\学习资料\leetcode\leetcode Level2\day18\bin\Debug\net6.0\day18.deps.json
+E:\学习资料\leetcode\leetcode Level2\day18\bin\Debug\net6.0\day18.runtimeconfig.json
+E:\学习资料\leetcode\leetcode Level2\day18\bin\Debug\net6.0\day18.dll
+E:\学习资料\leetcode\leetcode Level2\day18\bin\Debug\net6.0\day18.pdb
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\day18.dll
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\refint\day18.dll
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\day18.pdb
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\day18.genruntimeconfig.cache
+E:\学习资料\leetcode\leetcode Level2\day18\obj\Debug\net6.0\ref\day18.dll
